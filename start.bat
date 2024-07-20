@@ -1,5 +1,5 @@
 @echo off
-title Kaodex Vanity Swapper V1
+title swapper
 
 node main.js
 
